@@ -22,4 +22,5 @@ Insructions
 2. pip install pandas_DataReader
 3. pip install datetime
 4. pip install plotly_express
-5. running on python 3.8.3 
+5. user will have to change to the csv file path on their machine.
+6. running on python 3.8.3 
