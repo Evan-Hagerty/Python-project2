@@ -17,6 +17,7 @@ Features
 
 Insructions
 
+**Sometimes github requires you to reload a few time before it runs**
 1. pip install pandas
 2. pip install pandas_DataReader
 3. pip install datetime
